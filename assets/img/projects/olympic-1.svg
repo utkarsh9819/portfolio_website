@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#3D6B66"/>
+  <rect x="24" y="24" width="752" height="552" fill="none" stroke="#F7F6F2" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.6"/>
+  <text x="400" y="285" font-family="IBM Plex Mono, monospace" font-size="20" fill="#F7F6F2" text-anchor="middle" opacity="0.9">PHOTO PLACEHOLDER</text>
+  <text x="400" y="320" font-family="IBM Plex Mono, monospace" font-size="16" fill="#F7F6F2" text-anchor="middle" opacity="0.75">Olympic Bid 2036</text>
+  <text x="400" y="352" font-family="IBM Plex Mono, monospace" font-size="13" fill="#F7F6F2" text-anchor="middle" opacity="0.6">slide 1 of 3 — replace this file</text>
+</svg>

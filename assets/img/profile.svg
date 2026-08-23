@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#EFEEE9"/>
+  <circle cx="200" cy="160" r="70" fill="#DAD7CE"/>
+  <path d="M80 360c0-80 54-130 120-130s120 50 120 130" fill="#DAD7CE"/>
+  <text x="200" y="380" font-family="IBM Plex Mono, monospace" font-size="12" fill="#55605B" text-anchor="middle">replace with profile.jpg</text>
+</svg>
