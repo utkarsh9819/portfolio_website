@@ -380,7 +380,7 @@ section:last-of-type { border-bottom: none; }
   padding-top: var(--space-4);
   border-top: 1px solid var(--color-line);
 }
-.projects-subheading:first-of-type { border-top: none; padding-top: 0; }
+.projects-subheading:first-of-type { border-top: none; padding-top: 0; margin-top: 0; }
 .projects-subheading h3 {
   font-family: var(--font-display);
   font-size: clamp(20px, 2.4vw, 24px);
